@@ -1,2 +1,2 @@
-# BuilIt
+# BuildIt
 Toy Story project
